@@ -1,5 +1,5 @@
 # encodeBase64
-Base64Encoder is a program to convert a file to base64 simply.
+encodeBase64 is a script to convert a file to base64 simply.
 
 ## How to Use it 
 **encodeBase64 (file) [output]**
